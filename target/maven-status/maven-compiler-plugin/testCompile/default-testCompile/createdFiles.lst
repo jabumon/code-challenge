@@ -1,0 +1,6 @@
+com/onelogin/code/challenge/operation/AddFractionsTest.class
+com/onelogin/code/challenge/operation/MultiplyFractionsTest.class
+com/onelogin/code/challenge/operation/DivideFractionsTest.class
+com/onelogin/code/challenge/operation/SubtractFractionsTest.class
+com/onelogin/code/challenge/data/StringFractionParserTest.class
+com/onelogin/code/challenge/operation/HandlerTest.class

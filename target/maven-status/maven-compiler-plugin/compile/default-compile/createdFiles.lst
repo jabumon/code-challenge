@@ -1,0 +1,8 @@
+com/onelogin/code/challenge/CodeChallengeApplication.class
+com/onelogin/code/challenge/operation/MultiplyFractions.class
+com/onelogin/code/challenge/operation/Handler.class
+com/onelogin/code/challenge/operation/SubtractFractions.class
+com/onelogin/code/challenge/operation/DivideFractions.class
+com/onelogin/code/challenge/operation/AddFractions.class
+com/onelogin/code/challenge/data/StringFractionParser.class
+com/onelogin/code/challenge/data/Fraction.class
